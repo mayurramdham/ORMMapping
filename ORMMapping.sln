@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35222.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ORMMapping", "ORMMapping\ORMMapping.csproj", "{4486A80B-6D9F-4FF2-8388-8392737EE133}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4486A80B-6D9F-4FF2-8388-8392737EE133}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4486A80B-6D9F-4FF2-8388-8392737EE133}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4486A80B-6D9F-4FF2-8388-8392737EE133}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4486A80B-6D9F-4FF2-8388-8392737EE133}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7909EC9D-CB55-48F8-93E1-AC6AE8819DC8}
+	EndGlobalSection
+EndGlobal

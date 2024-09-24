@@ -1,0 +1,6 @@
+@ORMMapping_HostAddress = http://localhost:5211
+
+GET {{ORMMapping_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
